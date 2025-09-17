@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.evotingplatform</groupId>
-	<artifactId>data-input-service</artifactId>
+	<artifactId>vpp-data-input-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>data-input-service</name>
+	<name>vpp-data-input-service</name>
 	<description>Service for inputting and validating raw data</description>
 	<url/>
 	<licenses>
